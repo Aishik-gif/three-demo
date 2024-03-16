@@ -1,1 +1,1 @@
-#a planet and moon using three.js
+# A planet and moon using three.js
